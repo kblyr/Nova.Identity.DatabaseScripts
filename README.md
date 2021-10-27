@@ -1,1 +1,1 @@
-# Nova_Identity_DatabaseScripts
+# Nova.Identity.DatabaseScripts
